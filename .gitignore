@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+SolidSol/Content/3rdParty/
+SolidSol/Intermediate/
+SolidSol/Saved/Config/CrashReportClient/
+SolidSol/Saved/Config/WindowsEditor/
+SolidSol/Saved/AutoScreenshot.png
+SolidSol/Saved/Autosaves/PackageRestoreData.json
+SolidSol/Saved/Config/WorldState/
+SolidSol/Saved/
+SolidSol/Binaries/
